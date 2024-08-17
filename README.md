@@ -26,10 +26,6 @@
 <a href="https://github.com/Ezeqielle/ScriptThemAll">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezeqielle&repo=ScriptThemAll&theme=github_dark_dimmed&card_width=350" />
 </a>
-</br>
-<a href="https://github.com/Ezeqielle/Secure_Box">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezeqielle&repo=Secure_Box&theme=github_dark_dimmed&card_width=350" />
-</a>
 
 <!--
 **Ezeqielle/Ezeqielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
