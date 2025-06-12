@@ -6,8 +6,8 @@
 </a>
 </br>
 </br>
-<a href="https://github.com/Ezeqielle/CTHULHU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezeqielle&repo=CTHULHU&theme=github_dark_dimmed&card_width=350" />
+<a href="https://github.com/Ezeqielle/SystemManager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezeqielle&repo=SystemManager&theme=github_dark_dimmed&card_width=350" />
 </a>
 <a href="https://github.com/Ezeqielle/Randomware">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezeqielle&repo=Randomware&theme=github_dark_dimmed&card_width=350" />
