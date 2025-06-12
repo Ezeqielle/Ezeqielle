@@ -2,7 +2,7 @@
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=ezeqielle&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=350" />
 </a>
 <a href="https://github.com/ezeqielle">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark_dimmed&langs_count=10&card_width=350" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezeqielle&layout=compact&theme=github_dark_dimmed&langs_count=10&card_width=350" />
 </a>
 </br>
 </br>
